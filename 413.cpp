@@ -8,7 +8,7 @@ int main()
 	int c;//Инициализация переменной под третье число
 	c = b--;//Присвоение значения переменной
 	cout << a << endl;
-	cout << c << endl;
+	cout << c << endl; //Вывод чисел
 	cout << b << endl;
 	return 0;
 }
