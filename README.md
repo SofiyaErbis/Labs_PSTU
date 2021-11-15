@@ -20,4 +20,6 @@
 2: https://github.com/SofiyaErbis/Labs_PSTU/blob/main/432.cpp
 
 <h2>Лабораторная работа №1</h2>
+1: https://github.com/SofiyaErbis/Labs_PSTU/blob/main/%D0%BB%D0%B0%D0%B1.%D1%80%D0%B0%D0%B11.cpp
 
+2:https://github.com/SofiyaErbis/Labs_PSTU/blob/main/%D0%BB%D0%B0%D0%B1.%D1%80%D0%B0%D0%B1.cpp
